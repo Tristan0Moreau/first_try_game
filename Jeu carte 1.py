@@ -5,7 +5,7 @@ from os import chdir
 import time
 import numpy as np
 from PIL import Image
-chdir('C:\\Users\\trist\\OneDrive\\Bureau\\nécessaire_de_programmation')
+chdir('VOTRE_CHEMIN_DACCES')
 
 
 current_key = None
@@ -3325,3 +3325,4 @@ liste_menu_objetrares_carte.insert(4, "Petite clef")
 
 
 fenetre.mainloop()
+
