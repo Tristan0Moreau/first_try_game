@@ -6,3 +6,5 @@ Ce projet avait pour but de découvrir la programmation en utilisant des classes
 Etant alors complètement étranger aux bonnes pratiques de programmation, j'ai tout fait tenir dans 2 fichiers (bonjour le chargement à l'exécution).
 Ce projet peut donc facilement être amélioré.
 Si vous voulez l'esssayer, il faut changer le chemin d'accès au début du fichier Jeu_Carte_1.py en le remplaçant par l'emplacement ou vous pourrez stocker les fichiers de sauvegarde (ça devrait aller, il y en a 3, tous des fichiers textes qui ne doivent pas prendre trop de place :) )
+
+Il y a aussi deux fichiers png (ce sont les mêmes images que j'ai dessiné moi même (je précise que je ne suis pas artiste) pour tester mon code et vérifier qu'il fonctionne).
